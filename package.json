@@ -1,0 +1,16 @@
+{
+  "name": "jquery-jcaret",
+  "version": "1.0.3",
+  "description": "jQuery plugin to manipulate the caret's position in a text box",
+  "main": "jquery.jcaret.js",
+  "repository": "/vrouet/jquery-jcaret",
+  "keywords": [
+    "caret",
+    "jquery"
+  ],
+  "author": {
+		"name": "Valentin Rouet",
+		"email": "<v.rouet@gmail.com>"
+	},
+  "license": "MIT"
+}
